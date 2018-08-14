@@ -1,0 +1,2 @@
+Para crear un branch en git hay que usar el comando "git checkout -b <nombrerama>,
+el cual tambien sirve para cambiar entre ramas
